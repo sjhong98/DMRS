@@ -17,4 +17,4 @@ DMRS(DID Medical Record System)은 블록체인 기반 신원정보 체계 DID�
 환자는 원하는 범위 내에서 자신의 진료기록을 의사에게 제공할 수 있으며, 이를 통해 의사는 진료기록을 열람 및 수정할 수 있습니다. 
 
 ## 2. 구조
-![DID 회원가입 시퀀스 다이어그램](https://github.com/sjhong98/DMRS/assets/90092013/37dcbf4b-81ff-4e2b-85bf-1cb4329e3d05)
+<img width="812" alt="DID 회원가입 시퀀스 다이어그램" src="https://github.com/sjhong98/DMRS/assets/90092013/37dcbf4b-81ff-4e2b-85bf-1cb4329e3d05">
