@@ -14,7 +14,7 @@
 
 <br /><br />
 
-<aname='프로젝트개요' />
+<a name='프로젝트개요' />
 
 ## 1. 프로젝트 개요
 
@@ -23,7 +23,7 @@ DMRS(DID Medical Record System)은 블록체인 기반 신원정보 체계 DID�
 
 <br /><br />
 
-<aname='기술스택' />
+<a name='기술스택' />
 
 ## 2. 기술 스택
 
