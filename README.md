@@ -2,8 +2,8 @@
 
 ## 목차
 1. [프로젝트 개요](#프로젝트개요)<br/>
-2. [기능 소개](#기능소개)<br/>
-3. [기술 스택](#기술스택)<br/>
+2. [기술 스택](#기술스택)<br/>
+3. [구조](#구조)<br/>
 4. [주요 기능 시연](#주요기능)<br/>
 1). [환자 로그인](#환자로그인)<br/>
 2). [환자 QR 코드 생성](#환자QR코드생성)<br/>
@@ -14,7 +14,7 @@
 
 <br /><br />
 
-<a href='프로젝트개요' />
+<a name='프로젝트개요' />
 
 ## 1. 프로젝트 개요
 
@@ -23,11 +23,15 @@ DMRS(DID Medical Record System)은 블록체인 기반 신원정보 체계 DID�
 
 <br /><br />
 
+<a name='기술스택' />
+
 ## 2. 기술 스택
 
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/mui-007FFF?style=for-the-badge&logo=mui&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/react native-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 
 <br /><br />
+
+<a name='구조' />
 
 ## 3. 구조
 
@@ -61,13 +65,13 @@ DMRS(DID Medical Record System)은 블록체인 기반 신원정보 체계 DID�
 
 <br /><br />
 
-<a href='주요기능' />
+<a name='주요기능' />
 
 ## 4. 기능 시현
 
 ## 환자
 
-<a href='환자로그인' />
+<a name='환자로그인' />
 
 ### 1) 로그인
 
@@ -75,7 +79,7 @@ DMRS(DID Medical Record System)은 블록체인 기반 신원정보 체계 DID�
 
 환자는 DMRS 모바일 앱을 통해 카카오 소셜로그인을 할 수 있습니다. 
 
-<a href='환자QR코드생성' />
+<a name='환자QR코드생성' />
 
 ### 2) QR 코드 생성
 
@@ -87,7 +91,7 @@ DMRS(DID Medical Record System)은 블록체인 기반 신원정보 체계 DID�
 
 ## 의사
 
-<a href='의사로그인' />
+<a name='의사로그인' />
 
 ### 1) 로그인
 
@@ -95,7 +99,7 @@ DMRS(DID Medical Record System)은 블록체인 기반 신원정보 체계 DID�
 
 DMRS 웹을 통해 의사 로그인을 할 수 있습니다.
 
-<a href='진료기록가져오기' />
+<a name='진료기록가져오기' />
 
 ### 2) 진료기록 가져오기
 
@@ -105,7 +109,7 @@ DMRS 웹을 통해 의사 로그인을 할 수 있습니다.
 
 이후 의사는 DMRS 웹에서 특정 링크를 통해 서버로부터 환자의 진료기록 vpJwt를 받아 열람할 수 있게 됩니다.
 
-<a href='신규진료기록작성' />
+<a name='신규진료기록작성' />
 
 ### 3) 신규 진료기록 작성
 
@@ -113,7 +117,7 @@ DMRS 웹을 통해 의사 로그인을 할 수 있습니다.
 
 위의 과정을 통해 환자의 진료기록이 담겨진 vpJwt를 받아오게 되면, 신규 진료기록을 작성할 수 있게 됩니다. 진료기록을 작성하고 나면 병원 DB에 진료기록에 저장되며, 환자 vpJwt가 새롭게 갱신됩니다. 의사는 진료기록 열람 페이지로 이동하여 자신이 방금 작성한 진료기록을 열람할 수 있습니다.
 
-<a href='기존진료기록열람' />
+<a name='기존진료기록열람' />
 
 ### 4) 기존 진료기록 열람
 
