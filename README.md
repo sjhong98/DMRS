@@ -65,7 +65,7 @@ DMRS(DID Medical Record System)은 블록체인 기반 신원정보 체계 DID�
 
 ### 1) 로그인
 
-<img width="350" alt="DID 회원가입 시퀀스 다이어그램" src="https://github.com/sjhong98/DMRS/assets/90092013/b407fbd3-700a-4806-abf0-f9fdf6013574">
+<img width="300" alt="DID 회원가입 시퀀스 다이어그램" src="https://github.com/sjhong98/DMRS/assets/90092013/b407fbd3-700a-4806-abf0-f9fdf6013574">
 
 환자는 DMRS 모바일 앱을 통해 카카오 소셜로그인을 할 수 있습니다. 
 
@@ -73,7 +73,7 @@ DMRS(DID Medical Record System)은 블록체인 기반 신원정보 체계 DID�
 
 ### 2) QR 코드 생성
 
-<img width="350" alt="DID 회원가입 시퀀스 다이어그램" src="https://github.com/sjhong98/DMRS/assets/90092013/308dcab4-7b5a-4455-8cc8-2c2ca4aace6f">
+<img width="300" alt="DID 회원가입 시퀀스 다이어그램" src="https://github.com/sjhong98/DMRS/assets/90092013/308dcab4-7b5a-4455-8cc8-2c2ca4aace6f">
 
 환자는 자신의 진료기록이 담긴 VpJwt를 QR 코드로 생성할 수 있고, 이를 의사에게 보여줌으로써 자신의 진료기록을 제공할 수 있습니다. 또한 정보 제공 설정을 통해 환자 스스로 어떤 병원의 정보를 제공할 것인지 범위를 선택할 수 있습니다.
 
