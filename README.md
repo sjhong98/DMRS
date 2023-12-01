@@ -1,5 +1,3 @@
-
-https://github.com/sjhong98/DMRS/assets/90092013/f6e689d4-747a-4b25-b434-8faf0c6fcc13
 <img width="812" alt="스크린샷 2023-12-01 오후 3 19 40" src="https://github.com/sjhong98/DMRS/assets/90092013/35bc4de2-b355-455b-89c9-45db99751004">
 
 ## 목차
